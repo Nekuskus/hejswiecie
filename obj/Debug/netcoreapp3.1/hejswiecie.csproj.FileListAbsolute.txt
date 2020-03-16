@@ -1,0 +1,11 @@
+D:\Damian\Hakier\Csharp\hejswiecie\bin\Debug\netcoreapp3.1\hejswiecie.exe
+D:\Damian\Hakier\Csharp\hejswiecie\bin\Debug\netcoreapp3.1\hejswiecie.deps.json
+D:\Damian\Hakier\Csharp\hejswiecie\bin\Debug\netcoreapp3.1\hejswiecie.runtimeconfig.json
+D:\Damian\Hakier\Csharp\hejswiecie\bin\Debug\netcoreapp3.1\hejswiecie.runtimeconfig.dev.json
+D:\Damian\Hakier\Csharp\hejswiecie\bin\Debug\netcoreapp3.1\hejswiecie.dll
+D:\Damian\Hakier\Csharp\hejswiecie\bin\Debug\netcoreapp3.1\hejswiecie.pdb
+D:\Damian\Hakier\Csharp\hejswiecie\obj\Debug\netcoreapp3.1\hejswiecie.csprojAssemblyReference.cache
+D:\Damian\Hakier\Csharp\hejswiecie\obj\Debug\netcoreapp3.1\hejswiecie.AssemblyInfoInputs.cache
+D:\Damian\Hakier\Csharp\hejswiecie\obj\Debug\netcoreapp3.1\hejswiecie.AssemblyInfo.cs
+D:\Damian\Hakier\Csharp\hejswiecie\obj\Debug\netcoreapp3.1\hejswiecie.dll
+D:\Damian\Hakier\Csharp\hejswiecie\obj\Debug\netcoreapp3.1\hejswiecie.pdb
